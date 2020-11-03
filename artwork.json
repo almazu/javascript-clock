@@ -1,0 +1,170 @@
+{
+    "0": {
+        "path": "./images/zero.jpg",
+        "title": "The Night Escorted by the Geniuses of Study and Love",
+        "year": "1883 - 1885",
+        "artist": "Pedro Americo",
+        "link": "https://www.wikiart.org/en/pedro-americo/the-night-escorted-by-the-geniuses-of-study-and-love-1885"
+    },
+    "1": {
+        "path": "./images/one.jpg",
+        "title": "The Dream (The Bed)",
+        "year": "1940",
+        "artist": "Frida Kahlo",
+        "link": "https://www.wikiart.org/en/frida-kahlo/the-dream-the-bed-1940"
+    },
+    "2": {
+        "path": "./images/two.jpg",
+        "title": "Le Lit",
+        "year": "1892",
+        "artist": "Henri de Toulouse-Lautrec",
+        "link": "https://www.wikiart.org/en/henri-de-toulouse-lautrec/in-bed-1893"
+    },
+    "3": {
+        "path": "./images/three.jpg",
+        "title": "The Nightmare",
+        "year": "1781",
+        "artist": "Henry Fuseli",
+        "link": "https://www.wikiart.org/en/henry-fuseli/the-nightmare-1781"
+    },
+    "4": {
+        "path": "./images/four.jpg",
+        "title": "The Birth of Venus",
+        "year": "1483 - 1485",
+        "artist": "Sandro Botticelli",
+        "link": "https://www.wikiart.org/en/sandro-botticelli/the-birth-of-venus-1485"
+    },
+    "5": {
+        "path": "./images/five.jpg",
+        "title": "Impression, Sunrise",
+        "year": "1874",
+        "artist": "Claude Monet",
+        "link": "https://www.wikiart.org/en/claude-monet/impression-sunrise"
+    },
+    "6": {
+        "path": "./images/six.jpg",
+        "title": "Norham Castle, Sunrise",
+        "year": "1845",
+        "artist": "J.M.W. Turner",
+        "link": "https://www.wikiart.org/en/william-turner/norham-castle-sunrise-1845"
+    },
+    "7": {
+        "path": "./images/seven.jpg",
+        "title": "Woman Awakening",
+        "year": "1876",
+        "artist": "Eva Gonzales",
+        "link": "https://www.wikiart.org/en/eva-gonzales/woman-awakening-1876"
+    },
+    "8": {
+        "path": "./images/eight.jpg",
+        "title": "Orange and Yellow",
+        "year": "1956",
+        "artist": "Mark Rothko",
+        "link": "https://www.wikiart.org/en/mark-rothko/orange-and-yellow"
+    },
+    "9": {
+        "path": "./images/nine.jpg",
+        "title": "Morning Sun",
+        "year": "1952",
+        "artist": "Edward Hopper",
+        "link": "https://www.wikiart.org/en/edward-hopper/morning-sun"
+    },
+    "10": {
+        "path": "./images/ten.jpg",
+        "title": "The School of Athens",
+        "year": "1510 - 1511",
+        "artist": "Raphael",
+        "link": "https://www.wikiart.org/en/raphael/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511"
+    },
+    "11": {
+        "path": "./images/eleven.jpg",
+        "title": "Goldfish",
+        "year": "1911",
+        "artist": "Henri Matisse",
+        "link": "https://www.wikiart.org/en/henri-matisse/goldfish-1911"
+    },
+    "12": {
+        "path": "./images/twelve.jpg",
+        "title": "The Luncheon of the Boating Party",
+        "year": "1880 - 1881",
+        "artist": "Pierre-Auguste Renoir",
+        "link": "https://www.wikiart.org/en/pierre-auguste-renoir/the-luncheon-of-the-boating-party-1881-1"
+    },
+    "13": {
+        "path": "./images/thirteen.jpg",
+        "title": "Mystery and Melancholy of a Street",
+        "year": "1914",
+        "artist": "Giorgio de Chirico",
+        "link": "https://www.wikiart.org/en/giorgio-de-chirico/mystery-and-melancholy-of-a-street-1914"
+    },
+    "14": {
+        "path": "./images/fourteen.jpg",
+        "title": "Las Meninas",
+        "year": "1656",
+        "artist": "Diego Velazquez",
+        "link": "https://www.wikiart.org/en/diego-velazquez/las-meninas-detail-of-the-lower-half-depicting-the-family-of-philip-iv-of-spain-1656"
+    },
+    "15": {
+        "path": "./images/fifteen.jpg",
+        "title": "Sunday Afternoon on the Island of La Grande Jatte",
+        "year": "1884 - 1886",
+        "artist": "Georges Seurat",
+        "link": "https://www.wikiart.org/en/georges-seurat/sunday-afternoon-on-the-island-of-la-grande-jatte-1886"
+    },
+    "16": {
+        "path": "./images/sixteen.jpg",
+        "title": "The Blind Girl",
+        "year": "1854 - 1856",
+        "artist": "John Everett Millais",
+        "link": "https://www.wikiart.org/en/john-everett-millais/the-blind-girl-1856"
+    },
+    "17": {
+        "path": "./images/seventeen.jpg",
+        "title": "A Bar at the Folies-Bergere",
+        "year": "1882",
+        "artist": "Edouard Manet",
+        "link": "https://www.wikiart.org/en/edouard-manet/a-bar-at-the-folies-bergere-1882-1"
+    },
+    "18": {
+        "path": "./images/eighteen.jpg",
+        "title": "Sunset",
+        "year": "1918",
+        "artist": "Felix Vallotton",
+        "link": "https://www.wikiart.org/en/felix-vallotton/sunset-1918"
+    },
+    "19": {
+        "path": "./images/nineteen.jpg",
+        "title": "What the Water Gave Me",
+        "year": "1938",
+        "artist": "Frida Kahlo",
+        "link": "https://www.wikiart.org/en/frida-kahlo/what-the-water-gave-me-1938"
+    },
+    "20": {
+        "path": "./images/twenty.jpg",
+        "title": "The Battle of the Argonne",
+        "year": "1959",
+        "artist": "Rene Magritte",
+        "link": "https://www.wikiart.org/en/rene-magritte/the-battle-of-the-argonne-1959"
+    },
+    "21": {
+        "path": "./images/twentyone.jpg",
+        "title": "Nighthawks",
+        "year": "1942",
+        "artist": "Edward Hopper",
+        "link": "https://www.wikiart.org/en/edward-hopper/nighthawks"
+    },
+    "22": {
+        "path": "./images/twentytwo.jpg",
+        "title": "The Starry Night",
+        "year": "1889",
+        "artist": "Vincent van Gogh",
+        "link": "https://www.wikiart.org/en/vincent-van-gogh/the-starry-night-1889"
+    },
+    "23": {
+        "path": "./images/twentythree.jpg",
+        "title": "The Night Cafe",
+        "year": "1888",
+        "artist": "Vincent van Gogh",
+        "link": "https://www.wikiart.org/en/vincent-van-gogh/the-night-cafe-1888"
+    }
+}

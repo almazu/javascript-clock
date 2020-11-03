@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: default;
+}
+
+.time {
+    cursor: default;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 38px;
+    margin-bottom: 15px;
+}
+
+.artwork {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.description {
+    cursor: default;
+    width: 100%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.settings {
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 200px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.options {
+    display: none;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.settings-btn {
+    height: 25px;
+    width: 25px;
+    text-align: center;
+}

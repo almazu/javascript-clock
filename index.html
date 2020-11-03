@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Art History Clock</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <main>
+        <h1 title="What time is it?">Quelle heure est-il?</h1>
+        <div class="time" id="time"></div>
+        <figure>
+            <div class="artwork" id="artwork"></div>
+            <figcaption class="description" id="description"></figcaption>
+        </figure>
+        <div class="settings" id="settings">
+            <input type="image" title="Options" src="https://www.flaticon.com/svg/static/icons/svg/3616/3616981.svg" id="settings-btn" class="settings-btn"><br>
+            <div class="options" id="options">
+                <input type="checkbox" id="dark-mode" name="setting" value="Dark Mode">
+                <label for="setting">Dark Mode</label><br>
+                <input type="checkbox" id="clock-format" name="setting" value="12-hour Format">
+                <label for="setting">12-hour</label>
+            </div>
+        </div>
+    </main>
+    <script src="clock.js"></script>
+</body>
+
+</html>

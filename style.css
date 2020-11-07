@@ -54,10 +54,17 @@ h1 {
     display: none;
     justify-content: space-between;
     font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
 }
 
 .settings-btn {
     height: 25px;
     width: 25px;
     text-align: center;
+}
+
+.darkmode {
+    background-color: #121212;
+    color: #FFF;
+    opacity: 0.87;
 }

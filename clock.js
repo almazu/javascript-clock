@@ -93,6 +93,8 @@ window.onload = () => {
     }
 };
 
+
+
 // event listener for dark mode option
 darkModeCheckbox.addEventListener('change', () => {
     darkMode = localStorage.getItem("darkMode");
@@ -178,7 +180,7 @@ function toggleSettings() {
 }
 
 // get json data
-fetch("./artwork.json")
+fetch("./db.json")
     .then(response => {
         if (response.ok) {
             return response.json();
